@@ -1,2 +1,2 @@
-# CS7646_Teaching_Material
-Auxiliary Teaching Materials for CS7646 @ Georgia Tech
+# CS7646 Teaching Material
+Supplemental teaching material created for CS7646 @ Georgia Tech
